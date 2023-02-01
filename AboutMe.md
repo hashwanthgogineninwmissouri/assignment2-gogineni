@@ -21,6 +21,5 @@ This table contains the countries that I enjoy visiting and would recommend to o
 ## Laughable quotes
 
 > I want my children to have all the things I couldn't afford. Then I want to move in with them — *Phyllis Diller*
->
+
 > My advice to you is get married: If you find a good wife you’ll be happy; if not, you’ll become a philosopher - *Socrates*
->
