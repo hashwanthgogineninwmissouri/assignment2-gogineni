@@ -15,3 +15,12 @@ This table contains the countries that I enjoy visiting and would recommend to o
 |  Italy | beautiful scenery, a storied past, and a thriving culture, but also for the wonderful cuisine of Italy  | 5 |
 | The Maldives | gorgeous beaches, a thriving culture, a lot of greenery, and interesting landmarks | 4 |
 | United Arab Emirates | Beautiful, gleaming skyscrapers, cutting-edge structures, as well as stunning beaches and sand dunes | 7 | 
+
+***
+
+## Laughable quotes
+
+> I want my children to have all the things I couldn't afford. Then I want to move in with them — *Phyllis Diller*
+> 
+> My advice to you is get married: If you find a good wife you’ll be happy; if not, you’ll become a philosopher - *Socrates*
+> 
